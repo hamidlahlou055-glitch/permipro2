@@ -1,0 +1,8 @@
+{
+  "name": "Permis Pro Maroc - New Exam Prep",
+  "description": "A high-converting landing page for the new Moroccan driving license exam course, featuring AI-driven exam tips and a streamlined WhatsApp purchase flow.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
